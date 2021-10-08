@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,cAAc,CAAC;EACX,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "DataBlock.scss"
+    ],
+    "names": [],
+    "file": "DataBlock.css"
+}
